@@ -2,14 +2,7 @@
 <ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ArrayOfArrayOfString>
     <ArrayOfString>
-      <string>c:\temp\directxtest\wpfusercontrol\directxcontrol.xaml.cs</string>
-    </ArrayOfString>
-    <ArrayOfString>
-      <string>c:\temp\directxtest\directxtest\mainwindow.xaml</string>
-      <string>c:\temp\directxtest\directxtest\mainwindow.xaml.cs</string>
-    </ArrayOfString>
-    <ArrayOfString>
-      <string>C:\Temp\DirectXTest\DirectXTest\MyRenderer.cs</string>
+      <string>C:\Users\SOLZ\Documents\GitHubVisualStudio\SlimDxTest\WpfUserControl\IRenderEngine.cs</string>
     </ArrayOfString>
   </ArrayOfArrayOfString>
 </ArrayOfArrayOfArrayOfString>
